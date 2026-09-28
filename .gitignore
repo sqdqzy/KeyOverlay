@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# 本地配置与调试日志
+config.json
+*.log
+
+# 编辑器
+.vscode/
+.idea/
